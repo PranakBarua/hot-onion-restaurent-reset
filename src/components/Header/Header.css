@@ -1,0 +1,33 @@
+.header{
+    text-align: center;
+}
+.header-bg{
+    height: 400px;
+    background-position: center center;
+    background-size: 100% 100%;
+    margin-bottom: 50px;
+}
+.header-bg h1{
+    padding-top: 130px;
+}
+input{
+    height: 30px;
+    border-radius: 10px;
+}
+.search-button{
+    padding: 1px 20px;
+    background-color: firebrick;
+    color: white;
+    border-radius: 20px;
+}
+nav{
+    font-size: 20px;
+}
+.navLink{
+    margin-bottom: 100px;
+}
+.navLink a{
+    margin-right: 20px;
+    text-decoration: none;
+
+}

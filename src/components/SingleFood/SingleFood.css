@@ -1,0 +1,28 @@
+.single-food-container{
+    display: flex;
+    padding: 30px 50px;
+    margin-left: 100px;
+}
+.single-food-details{
+    margin-right: 70px;
+    width: 40%;
+}
+.single-food-img img{
+    width: 80%;
+}
+.extra-img{
+    margin-right: 20px;
+    height: 100px;
+}
+.flex-system{
+    display: flex;
+}
+.item-input{
+    width: 20px;
+}
+.border-disable{
+    border: none;
+}
+.price-container{
+    margin-right: 30px;
+}

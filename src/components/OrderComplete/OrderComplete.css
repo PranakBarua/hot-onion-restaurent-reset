@@ -1,0 +1,7 @@
+.orderComplete-full-part{
+    display: flex;
+}
+.location-part{
+    width: 60%;
+    margin-left: 100px;
+}
